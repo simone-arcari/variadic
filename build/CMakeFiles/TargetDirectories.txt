@@ -1,0 +1,3 @@
+/home/simo/Documents/variadic/build/CMakeFiles/variadic.dir
+/home/simo/Documents/variadic/build/CMakeFiles/edit_cache.dir
+/home/simo/Documents/variadic/build/CMakeFiles/rebuild_cache.dir

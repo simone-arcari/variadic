@@ -1,0 +1,1 @@
+Questo è un log su file: 3.140000
